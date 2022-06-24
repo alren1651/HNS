@@ -1,0 +1,11 @@
+D:\Project\Younsan Metal\Younsan Metal\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Younsan Metal\Younsan Metal\obj\Debug\Younsan_Metal.FormMain.resources
+D:\Project\Younsan Metal\Younsan Metal\obj\Debug\Younsan_Metal.Properties.Resources.resources
+D:\Project\Younsan Metal\Younsan Metal\obj\Debug\Younsan Metal.csproj.GenerateResource.Cache
+D:\Project\Younsan Metal\Younsan Metal\bin\Debug\Younsan Metal.exe
+D:\Project\Younsan Metal\Younsan Metal\bin\Debug\Younsan Metal.pdb
+D:\Project\Younsan Metal\Younsan Metal\bin\Debug\SmartXNCommon.dll
+D:\Project\Younsan Metal\Younsan Metal\bin\Debug\SmartXNFDCommon.dll
+D:\Project\Younsan Metal\Younsan Metal\obj\Debug\Younsan Metal.exe
+D:\Project\Younsan Metal\Younsan Metal\obj\Debug\Younsan Metal.pdb
+D:\Project\Younsan Metal\Younsan Metal\bin\Debug\SmartXN_IEC667.dll
